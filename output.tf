@@ -5,5 +5,4 @@ output "eip" {
 output "instance-info" {
   value = module.devinstance.instance-info
 }
-}
 
